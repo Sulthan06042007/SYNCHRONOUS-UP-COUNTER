@@ -1,5 +1,6 @@
 ### EXP -11 SYNCHRONOUS-UP-COUNTER
-### Developed by:Kanishka.V RegisterNumber: 24003362
+### Developed by:MOHAMED SULTHAN A
+### RegisterNumber: 212223230125
 
 ### **AIM:**
 
